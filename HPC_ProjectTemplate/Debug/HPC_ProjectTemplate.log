@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\ASD\Downloads\HPC_ProjectTemplate\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(95,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASD\Downloads\HPC_ProjectTemplate\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(107,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASD\Downloads\HPC_ProjectTemplate\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(108,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASD\Downloads\HPC_ProjectTemplate\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(117,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ASD\Downloads\HPC_ProjectTemplate\HPC_ProjectTemplate\HPC_ProjectTemplate\Source.cpp(124,34): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Source.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  HPC_ProjectTemplate.vcxproj -> C:\Users\ASD\Downloads\HPC_ProjectTemplate\HPC_ProjectTemplate\Debug\HPC_ProjectTemplate.exe
